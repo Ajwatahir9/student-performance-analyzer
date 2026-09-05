@@ -1,0 +1,5 @@
+Laptop:80000
+Smartphone:50000
+Tablet:30000
+Headphones:5000
+Smartwatch:15000
