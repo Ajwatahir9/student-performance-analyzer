@@ -1,4 +1,0 @@
-Ajwa: 76
-Alice: 85
-Bob: 90
-Sara: 88
