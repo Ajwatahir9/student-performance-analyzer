@@ -84,6 +84,6 @@ This project reads student data from a CSV file and generates useful insights li
 ---
 
 ## 📎 Connect With Me
-- [LinkedIn](www.linkedin.com/in/ajwa-tahir-0825a229a)
+- [LinkedIn](https://www.linkedin.com/in/ajwa-tahir-0825a229a)
 - [GitHub](https://github.com/Ajwatahir9)
 
